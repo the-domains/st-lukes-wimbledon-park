@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[St Lukes, Wimbledon Park]]></title>
+        <description><![CDATA[St Lukes, Wimbledon Park]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 16:59:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Lord's Prayer Advert Has Been Banned For Being Offensive - Which It Is]]></title>
+            <description><![CDATA[<article><h1>The Lord's Prayer Advert Has Been Banned For Being Offensive - Which It Is</h1><p>There's been a kerfuffle in the UK over this cinema advert, in which the Lord's Prayer is prayed by various different people across the nation, being banned in cinemas.</p><img src="http://thinktheology.co.uk/images/uploads/prayer.jpg"></article>]]></description>
+            <link>http://thinktheology.co.uk/blog/article/the_lords_prayer_advert_has_been_banned_for_being_offensive_which_it_is</link>
+            <guid isPermaLink="false">f39b10a0-6b13-4698-9026-4d88715ba454</guid>
+            <pubDate>Mon, 23 Nov 2015 16:58:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
