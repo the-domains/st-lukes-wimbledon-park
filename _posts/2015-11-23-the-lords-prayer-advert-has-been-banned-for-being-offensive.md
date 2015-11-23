@@ -17,8 +17,8 @@ keywords:
   - offensive
   - temptation
 description: "There's been a kerfuffle in the UK over this cinema advert, in which the Lord's Prayer is prayed by various different people across the nation, being banned in cinemas."
-datePublished: '2015-11-23T16:58:28.516Z'
-dateModified: '2015-11-23T16:58:01.985Z'
+datePublished: '2015-11-23T19:21:48.476Z'
+dateModified: '2015-11-23T19:19:13.266Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The Lord's Prayer Advert Has Been Banned For Being Offensive - Which It Is</h1><p>There's been a kerfuffle in the UK over this cinema advert, in which the Lord's Prayer is prayed by various different people across the nation, being banned in cinemas.</p><img src="http://thinktheology.co.uk/images/uploads/prayer.jpg" /></article>
+<article style=""><h1>The Lord's Prayer Advert Has Been Banned For Being Offensive - Which It Is</h1><p>About that banned Lord's Prayer cinema ad </p><img src="http://thinktheology.co.uk/images/uploads/prayer.jpg" /></article>
