@@ -2,37 +2,30 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'http://www.cbsnews.com/news/the-girl-in-the-picture/'
-inLanguage: en
+isBasedOnUrl: 'https://www.youtube.com/watch?v=yyrTvIkxym8'
+inLanguage: null
 starred: false
-keywords:
-  - phuc
-  - cbsn
-  - pauley
-  - picture
-  - vietnam
-  - napalm
-  - app
-  - burned
-  - vietnamese
-  - girl
-description: "As captured in the Vietnam War's most iconic photo, Kim Phuc was seriously scarred for life by a napalm attack; now 52, she talks about healing and finding peace"
-datePublished: '2015-11-23T19:26:15.725Z'
-dateModified: '2015-11-23T19:21:07.980Z'
-author: []
+keywords: []
+description: 'A photo taken 43 years ago of Kim Phuc, a young Vietnamese girl fleeing naked from a napalm attack, continues to resonate today as the personification of the horrors of war. Jane Pauley revisits that horrific chapter of the Vietnam War, and finds out how Kim Phuc - now 52 - has found healing and peace.'
+datePublished: '2015-11-23T19:39:18.157Z'
+dateModified: '2015-11-23T19:39:08.006Z'
+author:
+  - name: CBS Sunday Morning
+    url: 'https://www.youtube.com/user/CBSSundayMorning'
+    avatar: {}
 related: []
 app_links: []
-title: ​The girl in the picture
+title: The girl in the picture
 authors: []
 publisher:
-  name: Cbsnews
-  domain: www.cbsnews.com
-  url: 'http://www.cbsnews.com'
-  favicon: 'http://cbsnews4.cbsistatic.com/fly/bundles/cbsnewscore/favicon.ico?v=7e6b7ad9727fca4595b6dd7d4e4609af3452b5a3'
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: null
 sourcePath: _posts/2015-11-23-the-girl-in-the-picture.md
 published: true
+_type: VideoObject
 _context: 'http://schema.org'
-_type: MediaObject
 
 ---
-<article style=""><h1>​The girl in the picture</h1><p>How can anyone survive tragedy, like in Paris? Could they even come to faith through it?  </p><img src="http://cbsnews1.cbsistatic.com/hub/i/r/2015/10/23/c4a2686e-0b14-4f1b-b028-808e10b11ac9/thumbnail/620x350/ab8dcd9645a040c03611242f0ae9f562/kim-phuc-zuma-promo-42-34711224.jpg" /></article>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FyyrTvIkxym8%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DyyrTvIkxym8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FyyrTvIkxym8%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
