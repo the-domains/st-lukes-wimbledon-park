@@ -1,10 +1,9 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://goo.gl/aSaLuK'
+hasPage: true
+inNav: true
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - healing
   - god
@@ -17,8 +16,8 @@ keywords:
   - pain
   - holy
 description: "I've been a \"Charismatic\" my entire life. I've seen the good, the bad, and the very, very ugly. I've seen the awe-inspiring and the cringe-worthy. I've seen the real and the fake. Today, I'm trying to sum up some of my observations, because I believe a healthy approach to supernatural healing is profoundly important for ..."
-datePublished: '2015-11-25T16:18:10.375Z'
-dateModified: '2015-11-25T16:17:24.898Z'
+datePublished: '2015-11-25T17:21:24.293Z'
+dateModified: '2015-11-25T17:07:12.096Z'
 author:
   - name: Jacob McMillen
     url: 'http://brazenchurch.com/author/jacobmcmillen/'
@@ -26,14 +25,15 @@ author:
 related: []
 app_links: []
 title: 20 Observations On Supernatural Healing After 20 Years In Charismania
+sourcePath: _posts/2015-11-25-20-observations-on-supernatural-healing-after-20-years-in-ch.md
+published: true
 authors: []
 publisher:
   name: Brazen Church
   domain: goo.gl
   url: 'http://brazenchurch.com'
   favicon: 'http://brazenchurch.com/wp-content/uploads/2015/10/cropped-512logo-192x192.jpg'
-sourcePath: _posts/2015-11-25-20-observations-on-supernatural-healing-after-20-years-in-ch.md
-published: true
+url: 20-observations-on-supernatural-healing-after-20-years-in-ch/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
