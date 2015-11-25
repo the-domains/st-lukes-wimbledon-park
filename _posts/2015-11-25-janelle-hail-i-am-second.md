@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - fragile
   - jesus
 description: "That perspective didn't last for long. Janelle remembered to ask Jesus what He thought. His uplifting answer gave her the hope and peace to seek God's plan for her life, which has since resulted in bringing physical and emotional healing to thousands of others facing the same breast cancer battle."
-datePublished: '2015-11-25T17:25:48.116Z'
-dateModified: '2015-11-25T17:25:35.332Z'
+datePublished: '2015-11-25T19:31:49.073Z'
+dateModified: '2015-11-25T19:31:34.245Z'
 author: []
 related: []
 app_links: []
 title: Janelle Hail - I Am Second
+sourcePath: _posts/2015-11-25-janelle-hail-i-am-second.md
+published: true
 authors: []
 publisher:
   name: Iamsecond
   domain: www.iamsecond.com
   url: 'http://www.iamsecond.com'
   favicon: 'http://www.iamsecond.com/favicon.ico'
-sourcePath: _posts/2015-11-25-janelle-hail-i-am-second.md
-published: true
 url: janelle-hail-i-am-second/index.html
 _context: 'http://schema.org'
 _type: MediaObject
