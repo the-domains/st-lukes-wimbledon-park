@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - god
   - religion
 description: "Not that long ago, most Americans didn't know much or care to know much about Islam. It was just one more exotic but irrelevant religion that missionaries and National Geographic occassionally talked about. One scholar noted, \"Less than a year before September 11, 2001, the consensus of expert opinion was ."
-datePublished: '2015-11-26T07:36:02.059Z'
-dateModified: '2015-11-26T07:35:54.768Z'
+datePublished: '2015-11-26T07:47:27.869Z'
+dateModified: '2015-11-26T07:47:21.444Z'
 author: []
 related: []
 app_links: []
 title: Does Islam Inevitably Lead to Violence?
+sourcePath: _posts/2015-11-26-does-islam-inevitably-lead-to-violence.md
+published: true
 authors: []
 publisher:
   name: TGC - The Gospel Coalition
   domain: www.thegospelcoalition.org
   url: 'http://www.thegospelcoalition.org'
   favicon: 'http://www.thegospelcoalition.org/favicon-16x16.png'
-sourcePath: _posts/2015-11-26-does-islam-inevitably-lead-to-violence.md
-published: true
 url: does-islam-inevitably-lead-to-violence/index.html
 _context: 'http://schema.org'
 _type: MediaObject
